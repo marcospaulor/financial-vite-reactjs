@@ -9,13 +9,13 @@
     width: 100%;
     display: flex;
     justify-content: center;
-    align-items: center;
+    /* align-items: center; */
 }
 
 .tg  {
     border-collapse:collapse;
-    /* border-color:#93a1a1; */
-    /* border-spacing:0; */
+    border-color:#93a1a1;
+    border-spacing:0;
     border-style:none;
     border-width:1px;
     width: 100%;
@@ -50,11 +50,11 @@
 
 .tg .tg-alz1{
     background-color:#eee8d5;
-    text-align:left;
+    text-align:center;
     vertical-align:top
 }
 
 .tg .tg-0lax{
-    text-align:left;
+    text-align:center;
     vertical-align:top
 }
